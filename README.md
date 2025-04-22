@@ -1,8 +1,5 @@
 # EXNO-3-DS
-   ```
-   NAME:KAVINRAJ.S
-   REGNO:212223100019
-```
+
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
@@ -33,6 +30,10 @@ We use this categorical data encoding technique when the features are nominal(do
   # 2. POWER TRANSFORMATION
 • Boxcox method
 • Yeojohnson method
+  ```
+   NAME:KAVINRAJ.S
+   REGNO:212223100019
+```
 
 # CODING AND OUTPUT:
   ![Screenshot 2025-04-22 104253](https://github.com/user-attachments/assets/dcf862bb-59cf-410c-ab42-bd6209f852df)
